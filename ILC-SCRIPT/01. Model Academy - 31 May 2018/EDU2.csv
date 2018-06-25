@@ -1,0 +1,23 @@
+AuthenticatedDC,LoggedOnTime,User,UserLocation,Workstation,IPAddress,ComputerLocation
+sesip.edu.bd,5/31/2018 12:50,user9,user9,NOT FOUND,192.168.1.15,NOT FOUND
+sesip.edu.bd,5/31/2018 12:47,user12,user12,NOT FOUND,192.168.1.19,NOT FOUND
+sesip.edu.bd,5/31/2018 12:47,user10,user10,NOT FOUND,192.168.1.25,NOT FOUND
+sesip.edu.bd,5/31/2018 12:46,ictteacher,ICT Teacher,NOT FOUND,192.168.1.221,NOT FOUND
+sesip.edu.bd,5/31/2018 12:40,Administrator,Users,sesip,localhost,Domain Controllers
+sesip.edu.bd,5/30/2018 16:01,user11,user11,NOT FOUND,192.168.1.11,NOT FOUND
+sesip.edu.bd,5/25/2018 13:04,user1,user1,NOT FOUND,192.168.1.5,NOT FOUND
+sesip.edu.bd,5/23/2018 16:38,user15,user15,NOT FOUND,192.168.1.110,NOT FOUND
+sesip.edu.bd,5/23/2018 16:04,user14,user14,NOT FOUND,192.168.1.24,NOT FOUND
+sesip.edu.bd,5/23/2018 16:03,user13,user13,NOT FOUND,192.168.1.112,NOT FOUND
+sesip.edu.bd,5/23/2018 16:00,user16,user16,NOT FOUND,192.168.1.23,NOT FOUND
+sesip.edu.bd,5/23/2018 15:57,user20,user20,NOT FOUND,192.168.1.17,NOT FOUND
+sesip.edu.bd,5/23/2018 15:54,user17,user17,NOT FOUND,192.168.1.9,NOT FOUND
+sesip.edu.bd,5/23/2018 15:48,user3,user3,NOT FOUND,192.168.1.21,NOT FOUND
+sesip.edu.bd,5/23/2018 15:47,user4,user4,NOT FOUND,192.168.1.251,NOT FOUND
+sesip.edu.bd,5/23/2018 15:44,user18,user18,NOT FOUND,192.168.1.253,NOT FOUND
+sesip.edu.bd,5/23/2018 15:44,user5,user5,NOT FOUND,192.168.1.4,NOT FOUND
+sesip.edu.bd,5/23/2018 15:43,user6,user6,NOT FOUND,192.168.1.198,NOT FOUND
+sesip.edu.bd,5/23/2018 15:43,user8,user8,NOT FOUND,192.168.1.20,NOT FOUND
+sesip.edu.bd,5/23/2018 15:23,user19,user19,NOT FOUND,192.168.1.18,NOT FOUND
+sesip.edu.bd,5/23/2018 15:22,user7,user7,NOT FOUND,192.168.1.13,NOT FOUND
+sesip.edu.bd,5/23/2018 15:22,user2,user2,NOT FOUND,192.168.1.14,NOT FOUND

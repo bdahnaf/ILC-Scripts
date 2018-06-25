@@ -1,0 +1,6 @@
+open 10.0.0.177
+
+USER Administrator Sourav@776
+put "F:\schedule\FTP\ILCSRV123.csv"
+
+bye

@@ -1,0 +1,16 @@
+﻿nmap -sP -v -oG D:\test.txt 10.0.0.1/24 (To search for all the ip address)
+nmap -sP -v -oG D:\test.txt 10.0.0.1-25 (To search for IP range 1 to 25)
+
+
+Working Sequence:
+1. download link - https://nmap.org/dist/nmap-7.70-setup.exe
+2. Install by the default choices
+3. Open cmd at the installed location. Default is C:\Program Files (x86)\Nmap
+4. Run one of the commands above. It will save the output to D:\ directory.
+
+* Also works with the firewall on.
+* -v parameter will show the output of UP+DOWN hosts.
+* Omit -v to get only the active or UP hosts.
+* nmap.bat will run only on the C:\Program Files (x86)\Nmap directory.
+* add "cd C:\Program Files (x86)\Nmap" to the 2nd line of the batch file to run it from anywhere.
+	But in this case the file should be run as administrator. (nmap-admin.bat)

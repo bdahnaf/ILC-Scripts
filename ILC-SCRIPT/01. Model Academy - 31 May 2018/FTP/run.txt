@@ -1,0 +1,2 @@
+@echo off
+ftp -s:F:\schedule\FTP\trans.txt
